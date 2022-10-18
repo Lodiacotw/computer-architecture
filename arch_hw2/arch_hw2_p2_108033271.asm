@@ -56,7 +56,7 @@ _range:
 	
 #Randomly generate the answer
 _generate_answer:
-	add $a1, $zero, $t1	# int range [0, 10)
+	addi $a1, $t1, 1	# int range [0, $t1}
 	addi $v0, $zero, 42     #syscall for generating random int into $a0
 	syscall 
 	move $t3, $a0           #$t3 is random answer
