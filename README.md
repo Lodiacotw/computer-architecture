@@ -1,9 +1,9 @@
 # computer-architecture (11110CS410000)
 HW1
-Benchmark
+：Benchmark
 
 HW2
-PART I. (Load, Store, Add, Sub) 
+：PART I. (Load, Store, Add, Sub) 
 
 Please load the data 4($gp) as A, 8($gp) as B, and 12($gp) as C, and do the 
 following calculations. 
@@ -22,5 +22,5 @@ the player guesses.
 You should consider the situation that the player makes a guess that is out of 
 the range. Please ask the player to retry (and it won’t cost any round).
 
-HW3
-Those two exercises are to practice procedure call and recursive call.
+HW3：
+Two exercises are to practice procedure call and recursive call.
