@@ -1,0 +1,9 @@
+Step 1 : Put your execution file into /student folder.
+
+Step 2 : Change the authority of the grading script.
+
+    $ chmod 744 grading_example.sh
+
+Step 3 : Execute the grading script.
+
+    $ ./grading_example

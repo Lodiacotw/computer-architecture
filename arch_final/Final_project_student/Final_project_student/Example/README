@@ -1,0 +1,15 @@
+1. Compile
+You can use the following command to generate the execution file of your program.
+
+    $ make
+
+2. Execute
+After generating the execution file (Default : project) in the folder, you can execute it by following command.
+
+    $ ./{your execution file} 
+    e.g. ./project
+
+3. Remove
+You can use the following command to remove the execution file.
+
+    $ make clean
