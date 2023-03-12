@@ -24,3 +24,10 @@ the range. Please ask the player to retry (and it won’t cost any round).
 
 HW3：
 Two exercises are to practice procedure call and recursive call.
+
+Final project：
+(Programming Project)
+The cache behavior simulation
+Goal:
+i.  Study and implement cache policies (LRU replacement policy).
+ii. Design a cache indexing scheme to minimize cache conflict miss.
